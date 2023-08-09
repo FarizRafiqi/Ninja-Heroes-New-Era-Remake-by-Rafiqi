@@ -1,0 +1,1942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>image/ibutton/B_B_cailiao.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 453}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/B_B_daoju.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{914, 101}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/B_B_quanbu.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{914, 165}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/B_B_xunlian.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1709, 179}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/B_B_zhuangbei.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1573, 115}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/B_H_cailiao.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{307, 343}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/B_H_daoju.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{137, 443}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/B_H_quanbu.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{500, 342}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/B_H_xunlian.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{774, 274}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/B_H_zhuangbei.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 389}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/X.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1046, 345}, {69, 66}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {69, 66}}</string>
+			<key>sourceSize</key>
+			<string>{69, 66}</string>
+		</dict>
+		<key>image/ibutton/acc_rw_01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1573, 179}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/acc_rw_02.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{910, 293}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/acc_rz.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{401, 544}, {90, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 38}}</string>
+			<key>sourceSize</key>
+			<string>{90, 38}</string>
+		</dict>
+		<key>image/ibutton/activity_join.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{713, 60}, {126, 59}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {126, 59}}</string>
+			<key>sourceSize</key>
+			<string>{126, 60}</string>
+		</dict>
+		<key>image/ibutton/bt_buy.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{910, 397}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/bt_fri_black0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1414, 195}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/bt_fri_black1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{524, 214}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/bt_fri_friList0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1709, 51}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/bt_fri_friList1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{774, 210}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/bt_fri_search0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{154, 379}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/bt_fri_search1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1709, 115}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/bt_referral.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1521, 283}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/bt_referral0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1120, 240}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/bt_referral1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{290, 407}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/bt_search.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1941, 47}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/btnReplace.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{910, 357}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/btn_b_162x38.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{524, 124}, {162, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {162, 38}}</string>
+			<key>sourceSize</key>
+			<string>{162, 38}</string>
+		</dict>
+		<key>image/ibutton/btn_box_h.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{365, 60}, {176, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {176, 48}}</string>
+			<key>sourceSize</key>
+			<string>{176, 48}</string>
+		</dict>
+		<key>image/ibutton/btn_h_104x38.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{602, 507}, {104, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 38}}</string>
+			<key>sourceSize</key>
+			<string>{104, 38}</string>
+		</dict>
+		<key>image/ibutton/btn_h_66x50.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1116, 428}, {66, 50}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {66, 50}}</string>
+			<key>sourceSize</key>
+			<string>{66, 50}</string>
+		</dict>
+		<key>image/ibutton/btn_huangse.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1550, 243}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/btn_huise.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{709, 482}, {104, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 38}}</string>
+			<key>sourceSize</key>
+			<string>{104, 38}</string>
+		</dict>
+		<key>image/ibutton/btn_l_218x58.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{555, 1}, {217, 57}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {217, 57}}</string>
+			<key>sourceSize</key>
+			<string>{218, 58}</string>
+		</dict>
+		<key>image/ibutton/btn_l_66x50.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1224, 411}, {66, 50}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {66, 50}}</string>
+			<key>sourceSize</key>
+			<string>{66, 50}</string>
+		</dict>
+		<key>image/ibutton/btn_renshuzhuanyi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{341, 174}, {161, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {161, 48}}</string>
+			<key>sourceSize</key>
+			<string>{161, 48}</string>
+		</dict>
+		<key>image/ibutton/btn_score.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 517}, {124, 41}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {124, 41}}</string>
+			<key>sourceSize</key>
+			<string>{124, 42}</string>
+		</dict>
+		<key>image/ibutton/btn_white.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1120, 304}, {115, 42}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {115, 42}}</string>
+			<key>sourceSize</key>
+			<string>{115, 42}</string>
+		</dict>
+		<key>image/ibutton/btn_xilian.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{401, 504}, {90, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 38}}</string>
+			<key>sourceSize</key>
+			<string>{90, 38}</string>
+		</dict>
+		<key>image/ibutton/btn_yuan_R.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1426, 51}, {142, 145}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {142, 145}}</string>
+			<key>sourceSize</key>
+			<string>{142, 145}</string>
+		</dict>
+		<key>image/ibutton/btn_yuan_h.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1120, 97}, {141, 145}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {141, 145}}</string>
+			<key>sourceSize</key>
+			<string>{142, 146}</string>
+		</dict>
+		<key>image/ibutton/btn_yuan_l.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1267, 97}, {141, 145}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {141, 145}}</string>
+			<key>sourceSize</key>
+			<string>{142, 146}</string>
+		</dict>
+		<key>image/ibutton/c_jtpd_g.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{543, 60}, {168, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {168, 62}}</string>
+			<key>sourceSize</key>
+			<string>{168, 62}</string>
+		</dict>
+		<key>image/ibutton/c_jtpd_w.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 174}, {168, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {168, 62}}</string>
+			<key>sourceSize</key>
+			<string>{168, 62}</string>
+		</dict>
+		<key>image/ibutton/c_sjpd_g.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{184, 100}, {168, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {168, 62}}</string>
+			<key>sourceSize</key>
+			<string>{168, 62}</string>
+		</dict>
+		<key>image/ibutton/c_sjpd_w.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{354, 110}, {168, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {168, 62}}</string>
+			<key>sourceSize</key>
+			<string>{168, 62}</string>
+		</dict>
+		<key>image/ibutton/c_xtpd_g.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{171, 164}, {168, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {168, 62}}</string>
+			<key>sourceSize</key>
+			<string>{168, 62}</string>
+		</dict>
+		<key>image/ibutton/c_xtpd_w.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 110}, {168, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {168, 62}}</string>
+			<key>sourceSize</key>
+			<string>{168, 62}</string>
+		</dict>
+		<key>image/ibutton/chatBtn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{951, 477}, {60, 45}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 45}}</string>
+			<key>sourceSize</key>
+			<string>{60, 45}</string>
+		</dict>
+		<key>image/ibutton/chushou.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1938, 278}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/colseBtn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1414, 259}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/duihuan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1845, 137}, {92, 81}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {92, 81}}</string>
+			<key>sourceSize</key>
+			<string>{93, 82}</string>
+		</dict>
+		<key>image/ibutton/emtitle01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{278, 1}, {275, 57}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {275, 57}}</string>
+			<key>sourceSize</key>
+			<string>{275, 57}</string>
+		</dict>
+		<key>image/ibutton/emtitle02.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {275, 57}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {275, 57}}</string>
+			<key>sourceSize</key>
+			<string>{275, 57}</string>
+		</dict>
+		<key>image/ibutton/fanhuicunzi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 289}, {151, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {151, 48}}</string>
+			<key>sourceSize</key>
+			<string>{151, 48}</string>
+		</dict>
+		<key>image/ibutton/fasong.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1941, 1}, {105, 44}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 44}}</string>
+			<key>sourceSize</key>
+			<string>{105, 44}</string>
+		</dict>
+		<key>image/ibutton/fenbu.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{264, 590}, {90, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 38}}</string>
+			<key>sourceSize</key>
+			<string>{90, 38}</string>
+		</dict>
+		<key>image/ibutton/fri_add.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1937, 318}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/fri_black.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{495, 486}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/fri_letter.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1521, 323}, {78, 73}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {78, 73}}</string>
+			<key>sourceSize</key>
+			<string>{78, 73}</string>
+		</dict>
+		<key>image/ibutton/fri_playerInfo.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1050, 184}, {62, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {62, 68}}</string>
+			<key>sourceSize</key>
+			<string>{62, 68}</string>
+		</dict>
+		<key>image/ibutton/fri_readd.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1414, 299}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/fri_rm.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{844, 477}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/fuchou.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1224, 371}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/gameskip.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{126, 632}, {89, 65}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {89, 65}}</string>
+			<key>sourceSize</key>
+			<string>{89, 65}</string>
+		</dict>
+		<key>image/ibutton/giveup.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{443, 343}, {90, 50}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 50}}</string>
+			<key>sourceSize</key>
+			<string>{90, 50}</string>
+		</dict>
+		<key>image/ibutton/h_RJDZ.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{264, 630}, {87, 89}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {87, 89}}</string>
+			<key>sourceSize</key>
+			<string>{87, 90}</string>
+		</dict>
+		<key>image/ibutton/h_beibao.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{597, 547}, {95, 77}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {95, 77}}</string>
+			<key>sourceSize</key>
+			<string>{96, 77}</string>
+		</dict>
+		<key>image/ibutton/h_buzhen.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{181, 699}, {80, 87}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {80, 87}}</string>
+			<key>sourceSize</key>
+			<string>{80, 88}</string>
+		</dict>
+		<key>image/ibutton/h_chucun.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{815, 517}, {95, 101}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {95, 101}}</string>
+			<key>sourceSize</key>
+			<string>{95, 101}</string>
+		</dict>
+		<key>image/ibutton/h_duanzao.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1050, 101}, {68, 81}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {68, 81}}</string>
+			<key>sourceSize</key>
+			<string>{69, 82}</string>
+		</dict>
+		<key>image/ibutton/h_email.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1764, 243}, {85, 79}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {85, 79}}</string>
+			<key>sourceSize</key>
+			<string>{85, 79}</string>
+		</dict>
+		<key>image/ibutton/h_haoyou.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 684}, {88, 78}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {88, 78}}</string>
+			<key>sourceSize</key>
+			<string>{88, 78}</string>
+		</dict>
+		<key>image/ibutton/h_huoban.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 916}, {75, 84}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 84}}</string>
+			<key>sourceSize</key>
+			<string>{75, 85}</string>
+		</dict>
+		<key>image/ibutton/h_huodong.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{687, 188}, {93, 85}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {93, 85}}</string>
+			<key>sourceSize</key>
+			<string>{93, 85}</string>
+		</dict>
+		<key>image/ibutton/h_jia.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{426, 435}, {67, 67}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {67, 67}}</string>
+			<key>sourceSize</key>
+			<string>{67, 67}</string>
+		</dict>
+		<key>image/ibutton/h_jian.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1344, 331}, {67, 63}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {67, 63}}</string>
+			<key>sourceSize</key>
+			<string>{67, 63}</string>
+		</dict>
+		<key>image/ibutton/h_juntuan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1845, 51}, {94, 84}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {94, 84}}</string>
+			<key>sourceSize</key>
+			<string>{94, 84}</string>
+		</dict>
+		<key>image/ibutton/h_paibing.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1845, 312}, {90, 73}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 73}}</string>
+			<key>sourceSize</key>
+			<string>{90, 74}</string>
+		</dict>
+		<key>image/ibutton/h_redian.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{263, 719}, {85, 85}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {85, 85}}</string>
+			<key>sourceSize</key>
+			<string>{86, 85}</string>
+		</dict>
+		<key>image/ibutton/h_shangdian.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{396, 624}, {83, 89}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {83, 89}}</string>
+			<key>sourceSize</key>
+			<string>{83, 89}</string>
+		</dict>
+		<key>image/ibutton/h_shezhi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{181, 788}, {76, 79}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {76, 79}}</string>
+			<key>sourceSize</key>
+			<string>{76, 80}</string>
+		</dict>
+		<key>image/ibutton/h_shiyanshi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1017, 413}, {97, 82}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {97, 82}}</string>
+			<key>sourceSize</key>
+			<string>{98, 82}</string>
+		</dict>
+		<key>image/ibutton/h_wszn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1256, 240}, {118, 89}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {118, 89}}</string>
+			<key>sourceSize</key>
+			<string>{119, 89}</string>
+		</dict>
+		<key>image/ibutton/h_xuanshang.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{89, 845}, {84, 85}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {84, 85}}</string>
+			<key>sourceSize</key>
+			<string>{84, 85}</string>
+		</dict>
+		<key>image/ibutton/helpBtn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1331, 396}, {69, 66}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {69, 66}}</string>
+			<key>sourceSize</key>
+			<string>{70, 66}</string>
+		</dict>
+		<key>image/ibutton/huangse_c.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{184, 60}, {179, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {179, 38}}</string>
+			<key>sourceSize</key>
+			<string>{179, 38}</string>
+		</dict>
+		<key>image/ibutton/huoqucailiao.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{967, 51}, {151, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {151, 48}}</string>
+			<key>sourceSize</key>
+			<string>{151, 48}</string>
+		</dict>
+		<key>image/ibutton/jincun.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{708, 522}, {95, 101}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {95, 101}}</string>
+			<key>sourceSize</key>
+			<string>{95, 101}</string>
+		</dict>
+		<key>image/ibutton/jingjishop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1046, 248}, {72, 95}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {72, 95}}</string>
+			<key>sourceSize</key>
+			<string>{72, 96}</string>
+		</dict>
+		<key>image/ibutton/jingyanzhuanyi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{524, 164}, {161, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {161, 48}}</string>
+			<key>sourceSize</key>
+			<string>{161, 48}</string>
+		</dict>
+		<key>image/ibutton/jingyanzhuanyi0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1362, 1}, {191, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {191, 48}}</string>
+			<key>sourceSize</key>
+			<string>{191, 48}</string>
+		</dict>
+		<key>image/ibutton/jingyanzhuanyi1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1748, 1}, {191, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {191, 48}}</string>
+			<key>sourceSize</key>
+			<string>{191, 48}</string>
+		</dict>
+		<key>image/ibutton/juanzhouxiulian.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{774, 101}, {138, 107}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {138, 107}}</string>
+			<key>sourceSize</key>
+			<string>{138, 107}</string>
+		</dict>
+		<key>image/ibutton/kaishitiaozhan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1273, 51}, {151, 44}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {151, 44}}</string>
+			<key>sourceSize</key>
+			<string>{151, 44}</string>
+		</dict>
+		<key>image/ibutton/kuaisujinru.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{636, 380}, {133, 45}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {133, 45}}</string>
+			<key>sourceSize</key>
+			<string>{133, 45}</string>
+		</dict>
+		<key>image/ibutton/letterImg.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{341, 224}, {157, 117}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {157, 117}}</string>
+			<key>sourceSize</key>
+			<string>{157, 117}</string>
+		</dict>
+		<key>image/ibutton/lijijieshu.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1117, 388}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/linghunzhuanyi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{774, 1}, {196, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {196, 48}}</string>
+			<key>sourceSize</key>
+			<string>{196, 48}</string>
+		</dict>
+		<key>image/ibutton/linghunzhuanyi0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1167, 1}, {193, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {193, 48}}</string>
+			<key>sourceSize</key>
+			<string>{193, 48}</string>
+		</dict>
+		<key>image/ibutton/linghunzhuanyi1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{972, 1}, {193, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {193, 48}}</string>
+			<key>sourceSize</key>
+			<string>{193, 48}</string>
+		</dict>
+		<key>image/ibutton/lingjiang.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1628, 283}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/lingqu.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1941, 87}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/lingqujiangli.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{137, 507}, {123, 125}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {123, 125}}</string>
+			<key>sourceSize</key>
+			<string>{123, 125}</string>
+		</dict>
+		<key>image/ibutton/lvsejia.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{355, 682}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>image/ibutton/m_sx_g.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1573, 51}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/m_sx_w.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{910, 229}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/m_xt_g.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{500, 278}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/m_xt_w.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{774, 338}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ibutton/meirilingjiang.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{91, 699}, {77, 88}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {77, 88}}</string>
+			<key>sourceSize</key>
+			<string>{77, 88}</string>
+		</dict>
+		<key>image/ibutton/new.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{688, 124}, {62, 22}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {62, 22}}</string>
+			<key>sourceSize</key>
+			<string>{62, 22}</string>
+		</dict>
+		<key>image/ibutton/paihangbang.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{684, 283}, {95, 88}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {95, 88}}</string>
+			<key>sourceSize</key>
+			<string>{95, 88}</string>
+		</dict>
+		<key>image/ibutton/pay.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1376, 240}, {67, 36}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {67, 36}}</string>
+			<key>sourceSize</key>
+			<string>{67, 36}</string>
+		</dict>
+		<key>image/ibutton/qianghua.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1939, 167}, {108, 109}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {108, 109}}</string>
+			<key>sourceSize</key>
+			<string>{108, 109}</string>
+		</dict>
+		<key>image/ibutton/qianghua01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{401, 584}, {90, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 38}}</string>
+			<key>sourceSize</key>
+			<string>{90, 38}</string>
+		</dict>
+		<key>image/ibutton/qianwang.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1237, 331}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/queren.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{495, 446}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/quxiao.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{771, 402}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/replace_skill_p.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{636, 278}, {100, 46}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {100, 46}}</string>
+			<key>sourceSize</key>
+			<string>{100, 46}</string>
+		</dict>
+		<key>image/ibutton/shaizi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1845, 220}, {90, 91}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 91}}</string>
+			<key>sourceSize</key>
+			<string>{90, 91}</string>
+		</dict>
+		<key>image/ibutton/shanchu.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1941, 127}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/shengji.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{878, 437}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/shengji_302_96.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 339}, {151, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {151, 48}}</string>
+			<key>sourceSize</key>
+			<string>{151, 48}</string>
+		</dict>
+		<key>image/ibutton/shexia.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{602, 467}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/shiyong-piliang.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1117, 348}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/shiyong.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{737, 442}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/sudu1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 764}, {88, 65}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {88, 65}}</string>
+			<key>sourceSize</key>
+			<string>{88, 65}</string>
+		</dict>
+		<key>image/ibutton/sudu2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1413, 339}, {78, 65}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {78, 65}}</string>
+			<key>sourceSize</key>
+			<string>{78, 65}</string>
+		</dict>
+		<key>image/ibutton/sudu3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{91, 778}, {88, 65}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {88, 65}}</string>
+			<key>sourceSize</key>
+			<string>{88, 65}</string>
+		</dict>
+		<key>image/ibutton/tiaozhan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1657, 243}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/upstar.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{504, 174}, {100, 18}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {100, 18}}</string>
+			<key>sourceSize</key>
+			<string>{102, 20}</string>
+		</dict>
+		<key>image/ibutton/x_close.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{307, 279}, {30, 31}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {30, 31}}</string>
+			<key>sourceSize</key>
+			<string>{30, 31}</string>
+		</dict>
+		<key>image/ibutton/xiexin.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1120, 51}, {151, 44}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {151, 44}}</string>
+			<key>sourceSize</key>
+			<string>{151, 44}</string>
+		</dict>
+		<key>image/ibutton/xl_giveup.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 238}, {151, 49}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {151, 49}}</string>
+			<key>sourceSize</key>
+			<string>{151, 49}</string>
+		</dict>
+		<key>image/ibutton/xl_jieshou.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{171, 228}, {151, 49}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {151, 49}}</string>
+			<key>sourceSize</key>
+			<string>{151, 49}</string>
+		</dict>
+		<key>image/ibutton/xl_xunlian.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{154, 329}, {151, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {151, 48}}</string>
+			<key>sourceSize</key>
+			<string>{151, 48}</string>
+		</dict>
+		<key>image/ibutton/xuanzhe.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{154, 279}, {151, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {151, 48}}</string>
+			<key>sourceSize</key>
+			<string>{151, 48}</string>
+		</dict>
+		<key>image/ibutton/xuanzhe1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{493, 526}, {102, 102}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {102, 102}}</string>
+			<key>sourceSize</key>
+			<string>{102, 102}</string>
+		</dict>
+		<key>image/ibutton/xuejizhuanyi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 60}, {181, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {181, 48}}</string>
+			<key>sourceSize</key>
+			<string>{181, 48}</string>
+		</dict>
+		<key>image/ibutton/xuejizhuanyi0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{774, 51}, {191, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {191, 48}}</string>
+			<key>sourceSize</key>
+			<string>{191, 48}</string>
+		</dict>
+		<key>image/ibutton/xuejizhuanyi1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1555, 1}, {191, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {191, 48}}</string>
+			<key>sourceSize</key>
+			<string>{191, 48}</string>
+		</dict>
+		<key>image/ibutton/yijianxuanze.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{495, 406}, {133, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {133, 38}}</string>
+			<key>sourceSize</key>
+			<string>{133, 38}</string>
+		</dict>
+		<key>image/ibutton/zaishiyici.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 560}, {122, 123}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {122, 123}}</string>
+			<key>sourceSize</key>
+			<string>{122, 123}</string>
+		</dict>
+		<key>image/ibutton/zanshichetui.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{273, 471}, {117, 126}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {117, 126}}</string>
+			<key>sourceSize</key>
+			<string>{117, 126}</string>
+		</dict>
+		<key>image/ibutton/zhandoujilu.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 831}, {83, 86}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {83, 86}}</string>
+			<key>sourceSize</key>
+			<string>{83, 86}</string>
+		</dict>
+		<key>image/ibutton/zhaomu.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{630, 427}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/ibutton/zhuangbei.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{356, 590}, {90, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 38}}</string>
+			<key>sourceSize</key>
+			<string>{90, 38}</string>
+		</dict>
+		<key>image/ibutton/zhuangbei01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1937, 358}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>textureFileName</key>
+		<string>ibutton.png</string>
+	</dict>
+</dict>
+</plist>

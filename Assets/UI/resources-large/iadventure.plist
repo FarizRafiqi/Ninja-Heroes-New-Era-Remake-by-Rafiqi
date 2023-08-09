@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>image/iadventure/adven_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{826, 242}, {140, 90}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {140, 90}}</string>
+			<key>sourceSize</key>
+			<string>{140, 90}</string>
+		</dict>
+		<key>image/iadventure/adven_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 48}, {134, 87}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 87}}</string>
+			<key>sourceSize</key>
+			<string>{134, 87}</string>
+		</dict>
+		<key>image/iadventure/adven_10_n.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{188, 493}, {66, 41}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {66, 41}}</string>
+			<key>sourceSize</key>
+			<string>{66, 41}</string>
+		</dict>
+		<key>image/iadventure/adven_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{826, 334}, {123, 137}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {123, 137}}</string>
+			<key>sourceSize</key>
+			<string>{124, 137}</string>
+		</dict>
+		<key>image/iadventure/adven_11_n.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{251, 336}, {115, 42}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {115, 42}}</string>
+			<key>sourceSize</key>
+			<string>{115, 42}</string>
+		</dict>
+		<key>image/iadventure/adven_12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{833, 1}, {160, 183}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {160, 183}}</string>
+			<key>sourceSize</key>
+			<string>{160, 183}</string>
+		</dict>
+		<key>image/iadventure/adven_12_n.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{125, 365}, {114, 22}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {114, 22}}</string>
+			<key>sourceSize</key>
+			<string>{114, 22}</string>
+		</dict>
+		<key>image/iadventure/adven_13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{127, 302}, {122, 61}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {122, 61}}</string>
+			<key>sourceSize</key>
+			<string>{122, 61}</string>
+		</dict>
+		<key>image/iadventure/adven_13_n.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 337}, {122, 61}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {122, 61}}</string>
+			<key>sourceSize</key>
+			<string>{122, 61}</string>
+		</dict>
+		<key>image/iadventure/adven_14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{253, 273}, {122, 61}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {122, 61}}</string>
+			<key>sourceSize</key>
+			<string>{122, 61}</string>
+		</dict>
+		<key>image/iadventure/adven_14_n.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{391, 226}, {122, 61}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {122, 61}}</string>
+			<key>sourceSize</key>
+			<string>{122, 61}</string>
+		</dict>
+		<key>image/iadventure/adven_1_n.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{107, 493}, {79, 43}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {79, 43}}</string>
+			<key>sourceSize</key>
+			<string>{79, 43}</string>
+		</dict>
+		<key>image/iadventure/adven_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{377, 289}, {121, 59}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {121, 59}}</string>
+			<key>sourceSize</key>
+			<string>{121, 59}</string>
+		</dict>
+		<key>image/iadventure/adven_2_n.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{452, 486}, {94, 43}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {94, 43}}</string>
+			<key>sourceSize</key>
+			<string>{94, 43}</string>
+		</dict>
+		<key>image/iadventure/adven_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{137, 48}, {132, 116}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {132, 116}}</string>
+			<key>sourceSize</key>
+			<string>{132, 116}</string>
+		</dict>
+		<key>image/iadventure/adven_3_n.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{81, 538}, {78, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {78, 40}}</string>
+			<key>sourceSize</key>
+			<string>{78, 40}</string>
+		</dict>
+		<key>image/iadventure/adven_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{635, 302}, {88, 113}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {88, 113}}</string>
+			<key>sourceSize</key>
+			<string>{88, 113}</string>
+		</dict>
+		<key>image/iadventure/adven_4_n.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{332, 493}, {92, 41}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {92, 41}}</string>
+			<key>sourceSize</key>
+			<string>{92, 41}</string>
+		</dict>
+		<key>image/iadventure/adven_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{271, 48}, {118, 115}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {118, 115}}</string>
+			<key>sourceSize</key>
+			<string>{118, 115}</string>
+		</dict>
+		<key>image/iadventure/adven_5_n.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{965, 426}, {135, 44}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {135, 44}}</string>
+			<key>sourceSize</key>
+			<string>{135, 44}</string>
+		</dict>
+		<key>image/iadventure/adven_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{637, 206}, {145, 94}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {145, 94}}</string>
+			<key>sourceSize</key>
+			<string>{145, 94}</string>
+		</dict>
+		<key>image/iadventure/adven_6_n.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{784, 244}, {108, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {108, 40}}</string>
+			<key>sourceSize</key>
+			<string>{108, 40}</string>
+		</dict>
+		<key>image/iadventure/adven_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 137}, {127, 108}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {127, 108}}</string>
+			<key>sourceSize</key>
+			<string>{127, 109}</string>
+		</dict>
+		<key>image/iadventure/adven_7_n.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{452, 390}, {94, 44}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {94, 44}}</string>
+			<key>sourceSize</key>
+			<string>{94, 44}</string>
+		</dict>
+		<key>image/iadventure/adven_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{498, 395}, {88, 99}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {88, 99}}</string>
+			<key>sourceSize</key>
+			<string>{88, 99}</string>
+		</dict>
+		<key>image/iadventure/adven_8_n.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{130, 211}, {124, 44}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {124, 44}}</string>
+			<key>sourceSize</key>
+			<string>{124, 44}</string>
+		</dict>
+		<key>image/iadventure/adven_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{826, 163}, {143, 77}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {143, 77}}</string>
+			<key>sourceSize</key>
+			<string>{144, 77}</string>
+		</dict>
+		<key>image/iadventure/adven_9_n.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{611, 392}, {104, 44}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 44}}</string>
+			<key>sourceSize</key>
+			<string>{104, 44}</string>
+		</dict>
+		<key>image/iadventure/adven_Bg.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 503}, {78, 76}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {78, 76}}</string>
+			<key>sourceSize</key>
+			<string>{80, 78}</string>
+		</dict>
+		<key>image/iadventure/g_m_bg.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {389, 45}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {389, 45}}</string>
+			<key>sourceSize</key>
+			<string>{390, 45}</string>
+		</dict>
+		<key>image/iadventure/goumai.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 247}, {124, 43}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {124, 43}}</string>
+			<key>sourceSize</key>
+			<string>{124, 43}</string>
+		</dict>
+		<key>image/iadventure/guan_lock.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{968, 292}, {35, 51}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {35, 51}}</string>
+			<key>sourceSize</key>
+			<string>{35, 52}</string>
+		</dict>
+		<key>image/iadventure/guankaBg01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{241, 380}, {104, 102}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 102}}</string>
+			<key>sourceSize</key>
+			<string>{104, 102}</string>
+		</dict>
+		<key>image/iadventure/guankaBg02.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{125, 389}, {104, 102}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 102}}</string>
+			<key>sourceSize</key>
+			<string>{104, 102}</string>
+		</dict>
+		<key>image/iadventure/guankaBg03.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{271, 165}, {118, 106}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {118, 106}}</string>
+			<key>sourceSize</key>
+			<string>{118, 106}</string>
+		</dict>
+		<key>image/iadventure/guankaBg04.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{515, 226}, {118, 106}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {118, 106}}</string>
+			<key>sourceSize</key>
+			<string>{118, 106}</string>
+		</dict>
+		<key>image/iadventure/guankaBg05.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{347, 390}, {103, 101}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {103, 101}}</string>
+			<key>sourceSize</key>
+			<string>{104, 101}</string>
+		</dict>
+		<key>image/iadventure/guankaBg06.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 400}, {104, 101}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 101}}</string>
+			<key>sourceSize</key>
+			<string>{104, 101}</string>
+		</dict>
+		<key>image/iadventure/guankaBg_guan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{773, 459}, {76, 76}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {76, 76}}</string>
+			<key>sourceSize</key>
+			<string>{76, 76}</string>
+		</dict>
+		<key>image/iadventure/guankaBg_kai.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{695, 439}, {76, 76}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {76, 76}}</string>
+			<key>sourceSize</key>
+			<string>{76, 76}</string>
+		</dict>
+		<key>image/iadventure/guanka_guan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{599, 438}, {94, 85}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {94, 85}}</string>
+			<key>sourceSize</key>
+			<string>{94, 85}</string>
+		</dict>
+		<key>image/iadventure/guanka_kai.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{498, 485}, {94, 82}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {94, 82}}</string>
+			<key>sourceSize</key>
+			<string>{94, 82}</string>
+		</dict>
+		<key>image/iadventure/guanka_lianjie.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{803, 65}, {90, 27}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 27}}</string>
+			<key>sourceSize</key>
+			<string>{90, 27}</string>
+		</dict>
+		<key>image/iadventure/saodang0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{130, 166}, {125, 43}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {125, 43}}</string>
+			<key>sourceSize</key>
+			<string>{125, 43}</string>
+		</dict>
+		<key>image/iadventure/shaodang.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 292}, {124, 43}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {124, 43}}</string>
+			<key>sourceSize</key>
+			<string>{124, 43}</string>
+		</dict>
+		<key>image/iadventure/shaodaong10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{127, 257}, {124, 43}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {124, 43}}</string>
+			<key>sourceSize</key>
+			<string>{124, 43}</string>
+		</dict>
+		<key>image/iadventure/xuxian01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{971, 163}, {127, 52}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {127, 52}}</string>
+			<key>sourceSize</key>
+			<string>{127, 52}</string>
+		</dict>
+		<key>image/iadventure/xuxian02.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{332, 536}, {32, 91}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 91}}</string>
+			<key>sourceSize</key>
+			<string>{32, 91}</string>
+		</dict>
+		<key>image/iadventure/xuxian03.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{801, 157}, {85, 23}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {85, 23}}</string>
+			<key>sourceSize</key>
+			<string>{85, 23}</string>
+		</dict>
+		<key>image/iadventure/xuxian04.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{637, 160}, {158, 44}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {158, 44}}</string>
+			<key>sourceSize</key>
+			<string>{158, 44}</string>
+		</dict>
+		<key>image/iadventure/xuxian05.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{968, 329}, {95, 47}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {95, 47}}</string>
+			<key>sourceSize</key>
+			<string>{95, 47}</string>
+		</dict>
+		<key>image/iadventure/xuxian06.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{231, 484}, {99, 84}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {99, 84}}</string>
+			<key>sourceSize</key>
+			<string>{99, 84}</string>
+		</dict>
+		<key>image/iadventure/xuxian07.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{637, 115}, {43, 162}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {43, 162}}</string>
+			<key>sourceSize</key>
+			<string>{43, 162}</string>
+		</dict>
+		<key>image/iadventure/xuxian08.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{500, 334}, {59, 109}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {59, 109}}</string>
+			<key>sourceSize</key>
+			<string>{59, 109}</string>
+		</dict>
+		<key>image/iadventure/xuxian09.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{717, 398}, {104, 39}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 39}}</string>
+			<key>sourceSize</key>
+			<string>{104, 39}</string>
+		</dict>
+		<key>image/iadventure/xuxian10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{368, 350}, {105, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 38}}</string>
+			<key>sourceSize</key>
+			<string>{105, 38}</string>
+		</dict>
+		<key>image/iadventure/xuxian11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{392, 1}, {243, 223}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {243, 223}}</string>
+			<key>sourceSize</key>
+			<string>{243, 223}</string>
+		</dict>
+		<key>image/iadventure/yun1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{637, 1}, {194, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {194, 62}}</string>
+			<key>sourceSize</key>
+			<string>{194, 62}</string>
+		</dict>
+		<key>image/iadventure/yun2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{750, 354}, {74, 42}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {74, 42}}</string>
+			<key>sourceSize</key>
+			<string>{74, 42}</string>
+		</dict>
+		<key>image/iadventure/yun3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{637, 65}, {164, 48}}</string>
+			<key>offset</key>
+			<string>{-1, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {164, 48}}</string>
+			<key>sourceSize</key>
+			<string>{166, 48}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>iadventure.png</string>
+	</dict>
+</dict>
+</plist>

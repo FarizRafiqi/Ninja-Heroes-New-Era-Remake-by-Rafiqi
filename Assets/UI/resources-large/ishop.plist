@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>image/ishop/B_B_VIP.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{927, 523}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ishop/B_B_heishi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{605, 65}, {168, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {168, 62}}</string>
+			<key>sourceSize</key>
+			<string>{168, 62}</string>
+		</dict>
+		<key>image/ishop/B_B_shangdian.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{605, 1}, {168, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {168, 62}}</string>
+			<key>sourceSize</key>
+			<string>{168, 62}</string>
+		</dict>
+		<key>image/ishop/B_B_zhaohuanka.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{927, 659}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ishop/B_H_VIP.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{927, 251}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ishop/B_H_heishi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{775, 1}, {168, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {168, 62}}</string>
+			<key>sourceSize</key>
+			<string>{168, 62}</string>
+		</dict>
+		<key>image/ishop/B_H_shangdian.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{945, 1}, {168, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {168, 62}}</string>
+			<key>sourceSize</key>
+			<string>{168, 62}</string>
+		</dict>
+		<key>image/ishop/B_H_zhaohuanka.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{927, 387}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ishop/btn_buy.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{927, 211}, {95, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {95, 38}}</string>
+			<key>sourceSize</key>
+			<string>{95, 38}</string>
+		</dict>
+		<key>image/ishop/btn_buyed.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{927, 171}, {95, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {95, 38}}</string>
+			<key>sourceSize</key>
+			<string>{95, 38}</string>
+		</dict>
+		<key>image/ishop/shop_jingji.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{605, 129}, {601, 149}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {601, 149}}</string>
+			<key>sourceSize</key>
+			<string>{602, 149}</string>
+		</dict>
+		<key>image/ishop/shop_juntuan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{775, 65}, {601, 150}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {601, 150}}</string>
+			<key>sourceSize</key>
+			<string>{601, 150}</string>
+		</dict>
+		<key>image/ishop/shop_line.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1009, 1}, {28, 2}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {28, 2}}</string>
+			<key>sourceSize</key>
+			<string>{28, 2}</string>
+		</dict>
+		<key>image/ishop/shop_renjie.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {602, 148}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {602, 148}}</string>
+			<key>sourceSize</key>
+			<string>{602, 148}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>ishop.png</string>
+	</dict>
+</dict>
+</plist>

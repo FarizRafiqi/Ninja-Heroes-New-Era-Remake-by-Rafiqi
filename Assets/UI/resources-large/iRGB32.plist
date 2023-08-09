@@ -1,0 +1,2059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>image/iRGB32/0mianfeidoubao.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{376, 439}, {86, 67}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {86, 67}}</string>
+			<key>sourceSize</key>
+			<string>{86, 67}</string>
+		</dict>
+		<key>image/iRGB32/0mianfeishuaxinduiwu.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{428, 585}, {133, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {133, 38}}</string>
+			<key>sourceSize</key>
+			<string>{135, 39}</string>
+		</dict>
+		<key>image/iRGB32/1000wenQuan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{327, 630}, {99, 105}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {99, 105}}</string>
+			<key>sourceSize</key>
+			<string>{99, 105}</string>
+		</dict>
+		<key>image/iRGB32/298jinbi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{732, 506}, {117, 92}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {117, 92}}</string>
+			<key>sourceSize</key>
+			<string>{117, 92}</string>
+		</dict>
+		<key>image/iRGB32/3wyinbi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{732, 300}, {115, 95}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {115, 95}}</string>
+			<key>sourceSize</key>
+			<string>{115, 95}</string>
+		</dict>
+		<key>image/iRGB32/50kaishiduobao.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 542}, {88, 78}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {88, 78}}</string>
+			<key>sourceSize</key>
+			<string>{88, 78}</string>
+		</dict>
+		<key>image/iRGB32/50wenQuan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{452, 765}, {108, 103}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {108, 103}}</string>
+			<key>sourceSize</key>
+			<string>{108, 103}</string>
+		</dict>
+		<key>image/iRGB32/98jinbi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{732, 417}, {87, 94}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {87, 94}}</string>
+			<key>sourceSize</key>
+			<string>{87, 94}</string>
+		</dict>
+		<key>image/iRGB32/9jinbishuaxinduiwu.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{268, 739}, {158, 30}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {158, 30}}</string>
+			<key>sourceSize</key>
+			<string>{160, 30}</string>
+		</dict>
+		<key>image/iRGB32/HDGG.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{466, 1}, {418, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {418, 62}}</string>
+			<key>sourceSize</key>
+			<string>{418, 62}</string>
+		</dict>
+		<key>image/iRGB32/HDVS.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{830, 170}, {192, 250}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {192, 250}}</string>
+			<key>sourceSize</key>
+			<string>{192, 250}</string>
+		</dict>
+		<key>image/iRGB32/HDWS_title.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{669, 671}, {149, 29}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {149, 29}}</string>
+			<key>sourceSize</key>
+			<string>{150, 29}</string>
+		</dict>
+		<key>image/iRGB32/LV_0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{371, 585}, {43, 25}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {43, 25}}</string>
+			<key>sourceSize</key>
+			<string>{43, 25}</string>
+		</dict>
+		<key>image/iRGB32/PHB.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {463, 99}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 10}, {463, 99}}</string>
+			<key>sourceSize</key>
+			<string>{463, 121}</string>
+		</dict>
+		<key>image/iRGB32/RGB32_01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{783, 625}, {38, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {38, 38}}</string>
+			<key>sourceSize</key>
+			<string>{38, 38}</string>
+		</dict>
+		<key>image/iRGB32/RGB32_02.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{159, 958}, {64, 64}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {64, 64}}</string>
+			<key>sourceSize</key>
+			<string>{64, 64}</string>
+		</dict>
+		<key>image/iRGB32/RGB_FF_00.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{886, 139}, {29, 29}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {29, 29}}</string>
+			<key>sourceSize</key>
+			<string>{29, 29}</string>
+		</dict>
+		<key>image/iRGB32/RGB_FF_01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{662, 856}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>image/iRGB32/RGB_FF_02.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 439}, {100, 100}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {100, 100}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>image/iRGB32/RGB_FF_04.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{376, 508}, {78, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {78, 75}}</string>
+			<key>sourceSize</key>
+			<string>{78, 75}</string>
+		</dict>
+		<key>image/iRGB32/RGB_FF_05.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{557, 765}, {99, 99}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {99, 99}}</string>
+			<key>sourceSize</key>
+			<string>{99, 99}</string>
+		</dict>
+		<key>image/iRGB32/RGB_FF_06.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1001, 546}, {22, 22}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {22, 22}}</string>
+			<key>sourceSize</key>
+			<string>{22, 22}</string>
+		</dict>
+		<key>image/iRGB32/RGB_FF_07.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 625}, {89, 89}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {89, 89}}</string>
+			<key>sourceSize</key>
+			<string>{89, 89}</string>
+		</dict>
+		<key>image/iRGB32/RGB_FF_08.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{91, 542}, {78, 78}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {78, 78}}</string>
+			<key>sourceSize</key>
+			<string>{78, 78}</string>
+		</dict>
+		<key>image/iRGB32/RGB_FF_09.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{339, 954}, {64, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {64, 38}}</string>
+			<key>sourceSize</key>
+			<string>{64, 38}</string>
+		</dict>
+		<key>image/iRGB32/RGB_FF_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{93, 958}, {64, 64}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {64, 64}}</string>
+			<key>sourceSize</key>
+			<string>{64, 64}</string>
+		</dict>
+		<key>image/iRGB32/RGB_cccccc_01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{585, 866}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>image/iRGB32/RGB_cccccc_03.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{678, 702}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>image/iRGB32/RGB_d8c7b6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{585, 943}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>image/iRGB32/RGB_dialog.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{826, 546}, {173, 173}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {173, 173}}</string>
+			<key>sourceSize</key>
+			<string>{173, 173}</string>
+		</dict>
+		<key>image/iRGB32/RGB_eadbc8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{658, 779}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>image/iRGB32/RGB_ebe5d9_01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{735, 779}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>image/iRGB32/RGB_f1eee9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{92, 622}, {77, 77}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {77, 77}}</string>
+			<key>sourceSize</key>
+			<string>{77, 77}</string>
+		</dict>
+		<key>image/iRGB32/RGB_ff_03.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{662, 933}, {73, 73}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {73, 73}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>image/iRGB32/RGB_xian.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{456, 943}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>image/iRGB32/bg_fri_head.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{886, 1}, {136, 136}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {136, 136}}</string>
+			<key>sourceSize</key>
+			<string>{136, 136}</string>
+		</dict>
+		<key>image/iRGB32/bg_fri_name.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{917, 139}, {28, 28}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {28, 28}}</string>
+			<key>sourceSize</key>
+			<string>{28, 28}</string>
+		</dict>
+		<key>image/iRGB32/bg_friend.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{221, 630}, {69, 69}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {69, 69}}</string>
+			<key>sourceSize</key>
+			<string>{69, 69}</string>
+		</dict>
+		<key>image/iRGB32/btn_mianfei_gaoxiulian.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{602, 542}, {128, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {128, 75}}</string>
+			<key>sourceSize</key>
+			<string>{128, 75}</string>
+		</dict>
+		<key>image/iRGB32/btn_mianfei_xiulian.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{379, 943}, {75, 77}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 77}}</string>
+			<key>sourceSize</key>
+			<string>{75, 77}</string>
+		</dict>
+		<key>image/iRGB32/dian.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{875, 65}, {10, 9}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {10, 9}}</string>
+			<key>sourceSize</key>
+			<string>{10, 9}</string>
+		</dict>
+		<key>image/iRGB32/em01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{225, 958}, {64, 64}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {64, 64}}</string>
+			<key>sourceSize</key>
+			<string>{64, 64}</string>
+		</dict>
+		<key>image/iRGB32/gainBg.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{145, 439}, {100, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {100, 62}}</string>
+			<key>sourceSize</key>
+			<string>{100, 62}</string>
+		</dict>
+		<key>image/iRGB32/gaojixiulian.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{600, 619}, {129, 50}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {129, 50}}</string>
+			<key>sourceSize</key>
+			<string>{129, 50}</string>
+		</dict>
+		<key>image/iRGB32/gxnhd_n.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{466, 65}, {407, 67}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {407, 67}}</string>
+			<key>sourceSize</key>
+			<string>{407, 67}</string>
+		</dict>
+		<key>image/iRGB32/gxsj.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{379, 102}, {295, 85}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {295, 85}}</string>
+			<key>sourceSize</key>
+			<string>{295, 85}</string>
+		</dict>
+		<key>image/iRGB32/hei01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{456, 720}, {13, 10}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {13, 10}}</string>
+			<key>sourceSize</key>
+			<string>{13, 10}</string>
+		</dict>
+		<key>image/iRGB32/heise01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{597, 671}, {50, 27}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {50, 27}}</string>
+			<key>sourceSize</key>
+			<string>{50, 27}</string>
+		</dict>
+		<key>image/iRGB32/help_Clipper_box.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{27, 721}, {16, 16}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {16, 16}}</string>
+			<key>sourceSize</key>
+			<string>{16, 16}</string>
+		</dict>
+		<key>image/iRGB32/help_Clipper_yuan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{466, 276}, {264, 264}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {264, 264}}</string>
+			<key>sourceSize</key>
+			<string>{264, 264}</string>
+		</dict>
+		<key>image/iRGB32/help_box.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{220, 901}, {56, 55}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {56, 55}}</string>
+			<key>sourceSize</key>
+			<string>{56, 55}</string>
+		</dict>
+		<key>image/iRGB32/help_buluo_box.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 102}, {376, 312}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {376, 312}}</string>
+			<key>sourceSize</key>
+			<string>{376, 312}</string>
+		</dict>
+		<key>image/iRGB32/help_jiantou.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{468, 624}, {139, 127}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {139, 127}}</string>
+			<key>sourceSize</key>
+			<string>{139, 127}</string>
+		</dict>
+		<key>image/iRGB32/help_yuan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{300, 739}, {150, 150}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {150, 150}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>image/iRGB32/huangse_03.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{209, 521}, {160, 107}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {160, 107}}</string>
+			<key>sourceSize</key>
+			<string>{160, 107}</string>
+		</dict>
+		<key>image/iRGB32/huangse_04.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{278, 899}, {60, 53}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 53}}</string>
+			<key>sourceSize</key>
+			<string>{60, 53}</string>
+		</dict>
+		<key>image/iRGB32/huanse_01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{171, 541}, {35, 35}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {35, 35}}</string>
+			<key>sourceSize</key>
+			<string>{35, 35}</string>
+		</dict>
+		<key>image/iRGB32/huanse_02.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{484, 875}, {46, 46}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 46}}</string>
+			<key>sourceSize</key>
+			<string>{46, 46}</string>
+		</dict>
+		<key>image/iRGB32/huise01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{818, 961}, {30, 31}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {30, 31}}</string>
+			<key>sourceSize</key>
+			<string>{30, 31}</string>
+		</dict>
+		<key>image/iRGB32/huise02.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{731, 625}, {50, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {50, 38}}</string>
+			<key>sourceSize</key>
+			<string>{50, 38}</string>
+		</dict>
+		<key>image/iRGB32/huise03.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{379, 399}, {84, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {84, 38}}</string>
+			<key>sourceSize</key>
+			<string>{84, 38}</string>
+		</dict>
+		<key>image/iRGB32/huise04.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{793, 996}, {27, 27}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 27}}</string>
+			<key>sourceSize</key>
+			<string>{27, 27}</string>
+		</dict>
+		<key>image/iRGB32/huisexian.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{947, 139}, {28, 28}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {28, 28}}</string>
+			<key>sourceSize</key>
+			<string>{28, 28}</string>
+		</dict>
+		<key>image/iRGB32/j-0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{732, 276}, {22, 25}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {22, 25}}</string>
+			<key>sourceSize</key>
+			<string>{22, 25}</string>
+		</dict>
+		<key>image/iRGB32/j-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1001, 607}, {21, 25}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {21, 25}}</string>
+			<key>sourceSize</key>
+			<string>{21, 25}</string>
+		</dict>
+		<key>image/iRGB32/j-1st.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{793, 256}, {42, 35}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {42, 35}}</string>
+			<key>sourceSize</key>
+			<string>{42, 35}</string>
+		</dict>
+		<key>image/iRGB32/j-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{885, 739}, {23, 25}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {23, 25}}</string>
+			<key>sourceSize</key>
+			<string>{23, 25}</string>
+		</dict>
+		<key>image/iRGB32/j-2nd.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{830, 134}, {54, 34}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {54, 34}}</string>
+			<key>sourceSize</key>
+			<string>{54, 34}</string>
+		</dict>
+		<key>image/iRGB32/j-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{846, 862}, {23, 26}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {23, 26}}</string>
+			<key>sourceSize</key>
+			<string>{23, 26}</string>
+		</dict>
+		<key>image/iRGB32/j-3rd.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{793, 202}, {52, 35}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {52, 35}}</string>
+			<key>sourceSize</key>
+			<string>{52, 35}</string>
+		</dict>
+		<key>image/iRGB32/j-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1001, 634}, {21, 25}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {21, 25}}</string>
+			<key>sourceSize</key>
+			<string>{21, 25}</string>
+		</dict>
+		<key>image/iRGB32/j-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{858, 739}, {25, 25}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 25}}</string>
+			<key>sourceSize</key>
+			<string>{25, 25}</string>
+		</dict>
+		<key>image/iRGB32/j-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{759, 276}, {22, 25}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {22, 25}}</string>
+			<key>sourceSize</key>
+			<string>{22, 25}</string>
+		</dict>
+		<key>image/iRGB32/j-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{848, 833}, {23, 26}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {23, 26}}</string>
+			<key>sourceSize</key>
+			<string>{23, 26}</string>
+		</dict>
+		<key>image/iRGB32/j-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{865, 766}, {25, 25}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 25}}</string>
+			<key>sourceSize</key>
+			<string>{25, 25}</string>
+		</dict>
+		<key>image/iRGB32/j-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{840, 768}, {23, 26}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {23, 26}}</string>
+			<key>sourceSize</key>
+			<string>{23, 26}</string>
+		</dict>
+		<key>image/iRGB32/jianglishuoming.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 739}, {238, 29}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {238, 29}}</string>
+			<key>sourceSize</key>
+			<string>{238, 29}</string>
+		</dict>
+		<key>image/iRGB32/kfz_paimingshangsheng.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{456, 542}, {144, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {144, 40}}</string>
+			<key>sourceSize</key>
+			<string>{144, 40}</string>
+		</dict>
+		<key>image/iRGB32/kuang_260_76.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{468, 584}, {130, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 38}}</string>
+			<key>sourceSize</key>
+			<string>{130, 38}</string>
+		</dict>
+		<key>image/iRGB32/kuang_422_76.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{180, 739}, {211, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {211, 38}}</string>
+			<key>sourceSize</key>
+			<string>{211, 38}</string>
+		</dict>
+		<key>image/iRGB32/lamian.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{209, 416}, {103, 165}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {103, 165}}</string>
+			<key>sourceSize</key>
+			<string>{103, 165}</string>
+		</dict>
+		<key>image/iRGB32/lv-0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{105, 416}, {20, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 24}}</string>
+			<key>sourceSize</key>
+			<string>{20, 24}</string>
+		</dict>
+		<key>image/iRGB32/lv-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 721}, {16, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{2, 0}, {16, 24}}</string>
+			<key>sourceSize</key>
+			<string>{20, 24}</string>
+		</dict>
+		<key>image/iRGB32/lv-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1001, 687}, {20, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 24}}</string>
+			<key>sourceSize</key>
+			<string>{20, 24}</string>
+		</dict>
+		<key>image/iRGB32/lv-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 416}, {20, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 24}}</string>
+			<key>sourceSize</key>
+			<string>{20, 24}</string>
+		</dict>
+		<key>image/iRGB32/lv-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{53, 416}, {20, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 24}}</string>
+			<key>sourceSize</key>
+			<string>{20, 24}</string>
+		</dict>
+		<key>image/iRGB32/lv-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 416}, {20, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 24}}</string>
+			<key>sourceSize</key>
+			<string>{20, 24}</string>
+		</dict>
+		<key>image/iRGB32/lv-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1001, 661}, {20, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 24}}</string>
+			<key>sourceSize</key>
+			<string>{20, 24}</string>
+		</dict>
+		<key>image/iRGB32/lv-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{131, 416}, {20, 23}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {20, 23}}</string>
+			<key>sourceSize</key>
+			<string>{20, 24}</string>
+		</dict>
+		<key>image/iRGB32/lv-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1001, 713}, {20, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 24}}</string>
+			<key>sourceSize</key>
+			<string>{20, 24}</string>
+		</dict>
+		<key>image/iRGB32/lv-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{27, 416}, {20, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 24}}</string>
+			<key>sourceSize</key>
+			<string>{20, 24}</string>
+		</dict>
+		<key>image/iRGB32/lv.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{398, 585}, {41, 23}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {41, 23}}</string>
+			<key>sourceSize</key>
+			<string>{41, 23}</string>
+		</dict>
+		<key>image/iRGB32/lvse.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{866, 793}, {23, 23}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {23, 23}}</string>
+			<key>sourceSize</key>
+			<string>{23, 23}</string>
+		</dict>
+		<key>image/iRGB32/lvse01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{73, 716}, {13, 10}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {13, 10}}</string>
+			<key>sourceSize</key>
+			<string>{13, 10}</string>
+		</dict>
+		<key>image/iRGB32/m-0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{633, 739}, {24, 34}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {24, 34}}</string>
+			<key>sourceSize</key>
+			<string>{25, 34}</string>
+		</dict>
+		<key>image/iRGB32/m-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{739, 856}, {23, 34}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {23, 34}}</string>
+			<key>sourceSize</key>
+			<string>{25, 34}</string>
+		</dict>
+		<key>image/iRGB32/m-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{737, 969}, {25, 34}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 34}}</string>
+			<key>sourceSize</key>
+			<string>{25, 34}</string>
+		</dict>
+		<key>image/iRGB32/m-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{624, 702}, {25, 34}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 34}}</string>
+			<key>sourceSize</key>
+			<string>{25, 34}</string>
+		</dict>
+		<key>image/iRGB32/m-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{266, 701}, {25, 34}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 34}}</string>
+			<key>sourceSize</key>
+			<string>{25, 34}</string>
+		</dict>
+		<key>image/iRGB32/m-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{651, 702}, {25, 34}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 34}}</string>
+			<key>sourceSize</key>
+			<string>{25, 34}</string>
+		</dict>
+		<key>image/iRGB32/m-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{597, 702}, {25, 34}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 34}}</string>
+			<key>sourceSize</key>
+			<string>{25, 34}</string>
+		</dict>
+		<key>image/iRGB32/m-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{803, 739}, {25, 34}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 34}}</string>
+			<key>sourceSize</key>
+			<string>{25, 34}</string>
+		</dict>
+		<key>image/iRGB32/m-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{597, 739}, {24, 34}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {24, 34}}</string>
+			<key>sourceSize</key>
+			<string>{25, 34}</string>
+		</dict>
+		<key>image/iRGB32/m-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{737, 933}, {25, 34}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 34}}</string>
+			<key>sourceSize</key>
+			<string>{25, 34}</string>
+		</dict>
+		<key>image/iRGB32/m-x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{821, 833}, {25, 27}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 27}}</string>
+			<key>sourceSize</key>
+			<string>{25, 27}</string>
+		</dict>
+		<key>image/iRGB32/meirilingjiangTF.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{466, 202}, {325, 72}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {325, 72}}</string>
+			<key>sourceSize</key>
+			<string>{325, 72}</string>
+		</dict>
+		<key>image/iRGB32/n-0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{121, 701}, {27, 35}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 35}}</string>
+			<key>sourceSize</key>
+			<string>{27, 35}</string>
+		</dict>
+		<key>image/iRGB32/n-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1001, 570}, {21, 35}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 0}, {21, 35}}</string>
+			<key>sourceSize</key>
+			<string>{27, 35}</string>
+		</dict>
+		<key>image/iRGB32/n-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{150, 701}, {27, 35}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 35}}</string>
+			<key>sourceSize</key>
+			<string>{27, 35}</string>
+		</dict>
+		<key>image/iRGB32/n-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{977, 139}, {27, 35}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 35}}</string>
+			<key>sourceSize</key>
+			<string>{27, 35}</string>
+		</dict>
+		<key>image/iRGB32/n-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{179, 701}, {27, 35}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 35}}</string>
+			<key>sourceSize</key>
+			<string>{27, 35}</string>
+		</dict>
+		<key>image/iRGB32/n-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{171, 578}, {27, 35}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 35}}</string>
+			<key>sourceSize</key>
+			<string>{27, 35}</string>
+		</dict>
+		<key>image/iRGB32/n-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{208, 701}, {27, 35}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 35}}</string>
+			<key>sourceSize</key>
+			<string>{27, 35}</string>
+		</dict>
+		<key>image/iRGB32/n-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{171, 607}, {27, 35}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 35}}</string>
+			<key>sourceSize</key>
+			<string>{27, 35}</string>
+		</dict>
+		<key>image/iRGB32/n-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{237, 701}, {27, 35}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 35}}</string>
+			<key>sourceSize</key>
+			<string>{27, 35}</string>
+		</dict>
+		<key>image/iRGB32/n-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{92, 701}, {27, 35}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 35}}</string>
+			<key>sourceSize</key>
+			<string>{27, 35}</string>
+		</dict>
+		<key>image/iRGB32/p-0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{764, 997}, {26, 27}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 27}}</string>
+			<key>sourceSize</key>
+			<string>{26, 27}</string>
+		</dict>
+		<key>image/iRGB32/p-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{32, 958}, {17, 26}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {17, 26}}</string>
+			<key>sourceSize</key>
+			<string>{17, 26}</string>
+		</dict>
+		<key>image/iRGB32/p-1st.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{171, 636}, {63, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {63, 48}}</string>
+			<key>sourceSize</key>
+			<string>{63, 48}</string>
+		</dict>
+		<key>image/iRGB32/p-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{822, 994}, {26, 27}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 27}}</string>
+			<key>sourceSize</key>
+			<string>{26, 27}</string>
+		</dict>
+		<key>image/iRGB32/p-2st.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{755, 702}, {71, 46}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {71, 46}}</string>
+			<key>sourceSize</key>
+			<string>{71, 46}</string>
+		</dict>
+		<key>image/iRGB32/p-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{839, 804}, {25, 27}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 27}}</string>
+			<key>sourceSize</key>
+			<string>{25, 27}</string>
+		</dict>
+		<key>image/iRGB32/p-3st.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{291, 954}, {66, 46}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {66, 46}}</string>
+			<key>sourceSize</key>
+			<string>{66, 46}</string>
+		</dict>
+		<key>image/iRGB32/p-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{823, 891}, {26, 26}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 26}}</string>
+			<key>sourceSize</key>
+			<string>{26, 26}</string>
+		</dict>
+		<key>image/iRGB32/p-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{830, 739}, {26, 27}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 27}}</string>
+			<key>sourceSize</key>
+			<string>{26, 27}</string>
+		</dict>
+		<key>image/iRGB32/p-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{819, 926}, {26, 27}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 27}}</string>
+			<key>sourceSize</key>
+			<string>{26, 27}</string>
+		</dict>
+		<key>image/iRGB32/p-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{821, 862}, {23, 27}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {23, 27}}</string>
+			<key>sourceSize</key>
+			<string>{23, 27}</string>
+		</dict>
+		<key>image/iRGB32/p-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{812, 775}, {26, 27}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 27}}</string>
+			<key>sourceSize</key>
+			<string>{26, 27}</string>
+		</dict>
+		<key>image/iRGB32/p-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{812, 804}, {25, 27}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 27}}</string>
+			<key>sourceSize</key>
+			<string>{25, 27}</string>
+		</dict>
+		<key>image/iRGB32/quality_bar_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{452, 875}, {26, 14}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 14}}</string>
+			<key>sourceSize</key>
+			<string>{26, 14}</string>
+		</dict>
+		<key>image/iRGB32/quality_bar_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{293, 721}, {26, 14}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 14}}</string>
+			<key>sourceSize</key>
+			<string>{26, 14}</string>
+		</dict>
+		<key>image/iRGB32/quality_bar_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{452, 737}, {26, 14}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 14}}</string>
+			<key>sourceSize</key>
+			<string>{26, 14}</string>
+		</dict>
+		<key>image/iRGB32/quality_bar_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{45, 716}, {26, 14}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 14}}</string>
+			<key>sourceSize</key>
+			<string>{26, 14}</string>
+		</dict>
+		<key>image/iRGB32/quality_bar_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{428, 721}, {26, 14}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 14}}</string>
+			<key>sourceSize</key>
+			<string>{26, 14}</string>
+		</dict>
+		<key>image/iRGB32/quality_bar_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{60, 958}, {26, 14}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 14}}</string>
+			<key>sourceSize</key>
+			<string>{26, 14}</string>
+		</dict>
+		<key>image/iRGB32/quality_bar_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{293, 700}, {26, 14}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 14}}</string>
+			<key>sourceSize</key>
+			<string>{26, 14}</string>
+		</dict>
+		<key>image/iRGB32/r_kds9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{191, 416}, {17, 13}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {17, 13}}</string>
+			<key>sourceSize</key>
+			<string>{17, 13}</string>
+		</dict>
+		<key>image/iRGB32/rgb_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{32, 739}, {217, 146}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {217, 146}}</string>
+			<key>sourceSize</key>
+			<string>{217, 146}</string>
+		</dict>
+		<key>image/iRGB32/rzdh_n.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{466, 134}, {362, 66}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {362, 66}}</string>
+			<key>sourceSize</key>
+			<string>{362, 66}</string>
+		</dict>
+		<key>image/iRGB32/tal.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{220, 739}, {160, 46}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {160, 46}}</string>
+			<key>sourceSize</key>
+			<string>{160, 46}</string>
+		</dict>
+		<key>image/iRGB32/tal1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{103, 438}, {102, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {102, 40}}</string>
+			<key>sourceSize</key>
+			<string>{102, 42}</string>
+		</dict>
+		<key>image/iRGB32/tiaozhanTF.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 979}, {90, 44}}</string>
+			<key>offset</key>
+			<string>{3, -3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{9, 8}, {90, 44}}</string>
+			<key>sourceSize</key>
+			<string>{102, 54}</string>
+		</dict>
+		<key>image/iRGB32/title0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{828, 484}, {185, 60}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {185, 60}}</string>
+			<key>sourceSize</key>
+			<string>{185, 60}</string>
+		</dict>
+		<key>image/iRGB32/title1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{828, 422}, {185, 60}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {185, 60}}</string>
+			<key>sourceSize</key>
+			<string>{185, 60}</string>
+		</dict>
+		<key>image/iRGB32/tunshi0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{340, 891}, {142, 50}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {142, 50}}</string>
+			<key>sourceSize</key>
+			<string>{142, 50}</string>
+		</dict>
+		<key>image/iRGB32/tunshi1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{533, 875}, {142, 50}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {142, 50}}</string>
+			<key>sourceSize</key>
+			<string>{142, 50}</string>
+		</dict>
+		<key>image/iRGB32/v0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{796, 891}, {25, 33}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 33}}</string>
+			<key>sourceSize</key>
+			<string>{25, 33}</string>
+		</dict>
+		<key>image/iRGB32/v1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{156, 416}, {19, 33}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {19, 33}}</string>
+			<key>sourceSize</key>
+			<string>{19, 33}</string>
+		</dict>
+		<key>image/iRGB32/v2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{739, 892}, {27, 33}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 33}}</string>
+			<key>sourceSize</key>
+			<string>{27, 33}</string>
+		</dict>
+		<key>image/iRGB32/v3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{792, 926}, {25, 33}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {25, 33}}</string>
+			<key>sourceSize</key>
+			<string>{25, 33}</string>
+		</dict>
+		<key>image/iRGB32/v4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{764, 927}, {26, 33}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 33}}</string>
+			<key>sourceSize</key>
+			<string>{26, 33}</string>
+		</dict>
+		<key>image/iRGB32/v5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{764, 856}, {27, 33}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 33}}</string>
+			<key>sourceSize</key>
+			<string>{27, 33}</string>
+		</dict>
+		<key>image/iRGB32/v6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{764, 962}, {26, 33}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 33}}</string>
+			<key>sourceSize</key>
+			<string>{26, 33}</string>
+		</dict>
+		<key>image/iRGB32/v7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{792, 961}, {24, 33}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {24, 33}}</string>
+			<key>sourceSize</key>
+			<string>{24, 33}</string>
+		</dict>
+		<key>image/iRGB32/v8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{768, 891}, {26, 33}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 33}}</string>
+			<key>sourceSize</key>
+			<string>{26, 33}</string>
+		</dict>
+		<key>image/iRGB32/v9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{793, 856}, {26, 33}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 33}}</string>
+			<key>sourceSize</key>
+			<string>{26, 33}</string>
+		</dict>
+		<key>image/iRGB32/vip.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{292, 630}, {68, 33}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {68, 33}}</string>
+			<key>sourceSize</key>
+			<string>{68, 33}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>iRGB32.png</string>
+	</dict>
+</dict>
+</plist>

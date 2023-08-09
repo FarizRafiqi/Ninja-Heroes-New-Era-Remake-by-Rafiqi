@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>image/ibgicon/bg_payBox.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{362, 172}, {161, 358}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {161, 358}}</string>
+			<key>sourceSize</key>
+			<string>{161, 358}</string>
+		</dict>
+		<key>image/ibgicon/bg_payBox_m.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 149}, {161, 359}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {161, 359}}</string>
+			<key>sourceSize</key>
+			<string>{162, 360}</string>
+		</dict>
+		<key>image/ibgicon/bg_pay_fp.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{81, 950}, {68, 78}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {68, 78}}</string>
+			<key>sourceSize</key>
+			<string>{68, 78}</string>
+		</dict>
+		<key>image/ibgicon/bg_pay_fp_m.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 951}, {70, 78}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {70, 78}}</string>
+			<key>sourceSize</key>
+			<string>{70, 79}</string>
+		</dict>
+		<key>image/ibgicon/bg_pay_head.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{759, 298}, {146, 208}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {146, 208}}</string>
+			<key>sourceSize</key>
+			<string>{146, 208}</string>
+		</dict>
+		<key>image/ibgicon/bg_pay_pro.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{362, 149}, {164, 21}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {164, 21}}</string>
+			<key>sourceSize</key>
+			<string>{164, 21}</string>
+		</dict>
+		<key>image/ibgicon/bg_pay_proG.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{736, 461}, {159, 20}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {159, 20}}</string>
+			<key>sourceSize</key>
+			<string>{159, 20}</string>
+		</dict>
+		<key>image/ibgicon/bg_pay_star.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {531, 146}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {531, 146}}</string>
+			<key>sourceSize</key>
+			<string>{531, 146}</string>
+		</dict>
+		<key>image/ibgicon/bg_pay_t1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 312}, {352, 113}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {352, 113}}</string>
+			<key>sourceSize</key>
+			<string>{352, 113}</string>
+		</dict>
+		<key>image/ibgicon/bg_pay_t2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 427}, {260, 69}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {260, 69}}</string>
+			<key>sourceSize</key>
+			<string>{260, 69}</string>
+		</dict>
+		<key>image/ibgicon/bg_pay_yun.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 498}, {254, 112}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {254, 112}}</string>
+			<key>sourceSize</key>
+			<string>{254, 112}</string>
+		</dict>
+		<key>image/ibgicon/buil-lvBg.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 858}, {77, 90}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {77, 90}}</string>
+			<key>sourceSize</key>
+			<string>{77, 90}</string>
+		</dict>
+		<key>image/ibgicon/chatBg.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{534, 1}, {390, 87}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {390, 87}}</string>
+			<key>sourceSize</key>
+			<string>{390, 87}</string>
+		</dict>
+		<key>image/ibgicon/renzheshang.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 950}, {-697, -349}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{697, 349}, {-697, -349}}</string>
+			<key>sourceSize</key>
+			<string>{697, 349}</string>
+		</dict>
+		<key>image/ibgicon/shan1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{926, 1}, {209, 92}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {209, 92}}</string>
+			<key>sourceSize</key>
+			<string>{209, 92}</string>
+		</dict>
+		<key>image/ibgicon/shan2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{525, 461}, {209, 140}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {209, 140}}</string>
+			<key>sourceSize</key>
+			<string>{209, 140}</string>
+		</dict>
+		<key>image/ibgicon/shan3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{534, 90}, {376, 206}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {376, 206}}</string>
+			<key>sourceSize</key>
+			<string>{376, 206}</string>
+		</dict>
+		<key>image/ibgicon/ttf_song.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{879, 548}, {72, 25}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {72, 25}}</string>
+			<key>sourceSize</key>
+			<string>{72, 25}</string>
+		</dict>
+		<key>image/ibgicon/ttfb_0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{912, 212}, {106, 48}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {106, 48}}</string>
+			<key>sourceSize</key>
+			<string>{106, 48}</string>
+		</dict>
+		<key>image/ibgicon/ttfb_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{184, 638}, {63, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {63, 24}}</string>
+			<key>sourceSize</key>
+			<string>{63, 24}</string>
+		</dict>
+		<key>image/ibgicon/ttfb_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{184, 858}, {77, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {77, 24}}</string>
+			<key>sourceSize</key>
+			<string>{77, 24}</string>
+		</dict>
+		<key>image/ibgicon/ttfb_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{210, 858}, {77, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {77, 24}}</string>
+			<key>sourceSize</key>
+			<string>{77, 24}</string>
+		</dict>
+		<key>image/ibgicon/ttfb_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{158, 858}, {90, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 24}}</string>
+			<key>sourceSize</key>
+			<string>{90, 24}</string>
+		</dict>
+		<key>image/ibgicon/ttfb_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{361, 557}, {91, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {91, 24}}</string>
+			<key>sourceSize</key>
+			<string>{91, 24}</string>
+		</dict>
+		<key>image/ibgicon/ttfb_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{53, 858}, {91, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {91, 24}}</string>
+			<key>sourceSize</key>
+			<string>{91, 24}</string>
+		</dict>
+		<key>image/ibgicon/ttfb_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 858}, {91, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {91, 24}}</string>
+			<key>sourceSize</key>
+			<string>{91, 24}</string>
+		</dict>
+		<key>image/ibgicon/ttfb_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{257, 509}, {103, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {103, 24}}</string>
+			<key>sourceSize</key>
+			<string>{103, 24}</string>
+		</dict>
+		<key>image/ibgicon/ttfb_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{907, 433}, {116, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {116, 24}}</string>
+			<key>sourceSize</key>
+			<string>{116, 24}</string>
+		</dict>
+		<key>image/ibgicon/ttfb_f_0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{907, 459}, {117, 105}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {117, 105}}</string>
+			<key>sourceSize</key>
+			<string>{118, 106}</string>
+		</dict>
+		<key>image/ibgicon/ttfb_f_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{184, 612}, {63, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {63, 24}}</string>
+			<key>sourceSize</key>
+			<string>{63, 24}</string>
+		</dict>
+		<key>image/ibgicon/ttfb_f_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{263, 483}, {91, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {91, 24}}</string>
+			<key>sourceSize</key>
+			<string>{91, 24}</string>
+		</dict>
+		<key>image/ibgicon/ttfb_f_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{236, 858}, {77, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {77, 24}}</string>
+			<key>sourceSize</key>
+			<string>{77, 24}</string>
+		</dict>
+		<key>image/ibgicon/ttfb_f_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{879, 741}, {104, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 24}}</string>
+			<key>sourceSize</key>
+			<string>{104, 24}</string>
+		</dict>
+		<key>image/ibgicon/ttfb_f_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{362, 532}, {103, 23}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {103, 23}}</string>
+			<key>sourceSize</key>
+			<string>{103, 23}</string>
+		</dict>
+		<key>image/ibgicon/ttfb_f_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{27, 858}, {91, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {91, 24}}</string>
+			<key>sourceSize</key>
+			<string>{91, 24}</string>
+		</dict>
+		<key>image/ibgicon/ttfb_f_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{907, 407}, {116, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {116, 24}}</string>
+			<key>sourceSize</key>
+			<string>{116, 24}</string>
+		</dict>
+		<key>image/ibgicon/ttfb_f_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{879, 622}, {117, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {117, 24}}</string>
+			<key>sourceSize</key>
+			<string>{117, 24}</string>
+		</dict>
+		<key>image/ibgicon/ttfb_f_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{907, 381}, {116, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {116, 24}}</string>
+			<key>sourceSize</key>
+			<string>{116, 24}</string>
+		</dict>
+		<key>image/ibgicon/ttfc_0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{912, 262}, {117, 105}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {117, 105}}</string>
+			<key>sourceSize</key>
+			<string>{118, 106}</string>
+		</dict>
+		<key>image/ibgicon/ttfc_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{161, 950}, {77, 54}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {77, 54}}</string>
+			<key>sourceSize</key>
+			<string>{77, 54}</string>
+		</dict>
+		<key>image/ibgicon/ttfc_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{467, 532}, {90, 54}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {90, 54}}</string>
+			<key>sourceSize</key>
+			<string>{90, 54}</string>
+		</dict>
+		<key>image/ibgicon/ttfc_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{263, 427}, {91, 54}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {91, 54}}</string>
+			<key>sourceSize</key>
+			<string>{91, 54}</string>
+		</dict>
+		<key>image/ibgicon/ttfc_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{257, 535}, {102, 54}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {102, 54}}</string>
+			<key>sourceSize</key>
+			<string>{102, 54}</string>
+		</dict>
+		<key>image/ibgicon/ttfc_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{905, 690}, {104, 54}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 54}}</string>
+			<key>sourceSize</key>
+			<string>{104, 54}</string>
+		</dict>
+		<key>image/ibgicon/ttfc_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{905, 802}, {104, 54}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 54}}</string>
+			<key>sourceSize</key>
+			<string>{104, 54}</string>
+		</dict>
+		<key>image/ibgicon/ttfc_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{905, 746}, {104, 54}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 54}}</string>
+			<key>sourceSize</key>
+			<string>{104, 54}</string>
+		</dict>
+		<key>image/ibgicon/ttfc_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{905, 634}, {118, 54}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {118, 54}}</string>
+			<key>sourceSize</key>
+			<string>{118, 54}</string>
+		</dict>
+		<key>image/ibgicon/ttfc_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{906, 578}, {117, 54}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {117, 54}}</string>
+			<key>sourceSize</key>
+			<string>{117, 54}</string>
+		</dict>
+		<key>image/ibgicon/yun1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{758, 508}, {127, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {127, 38}}</string>
+			<key>sourceSize</key>
+			<string>{127, 38}</string>
+		</dict>
+		<key>image/ibgicon/yun2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{257, 591}, {196, 58}}</string>
+			<key>offset</key>
+			<string>{1, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {196, 58}}</string>
+			<key>sourceSize</key>
+			<string>{197, 58}</string>
+		</dict>
+		<key>image/ibgicon/yun3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{758, 548}, {205, 119}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {205, 119}}</string>
+			<key>sourceSize</key>
+			<string>{205, 119}</string>
+		</dict>
+		<key>image/ibgicon/yun4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{525, 298}, {232, 161}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {232, 161}}</string>
+			<key>sourceSize</key>
+			<string>{232, 161}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>ibgicon.png</string>
+	</dict>
+</dict>
+</plist>

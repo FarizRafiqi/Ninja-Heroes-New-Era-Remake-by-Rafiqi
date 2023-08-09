@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>image/ichuzhan/1haowei.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{319, 75}, {54, 22}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {54, 22}}</string>
+			<key>sourceSize</key>
+			<string>{54, 22}</string>
+		</dict>
+		<key>image/ichuzhan/2haowei.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{319, 131}, {54, 22}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {54, 22}}</string>
+			<key>sourceSize</key>
+			<string>{54, 22}</string>
+		</dict>
+		<key>image/ichuzhan/3haowei.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{480, 97}, {55, 22}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {55, 22}}</string>
+			<key>sourceSize</key>
+			<string>{55, 22}</string>
+		</dict>
+		<key>image/ichuzhan/c_b_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{324, 193}, {109, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {109, 38}}</string>
+			<key>sourceSize</key>
+			<string>{109, 38}</string>
+		</dict>
+		<key>image/ichuzhan/c_b_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{324, 233}, {109, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {109, 38}}</string>
+			<key>sourceSize</key>
+			<string>{109, 38}</string>
+		</dict>
+		<key>image/ichuzhan/c_b_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 348}, {109, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {109, 38}}</string>
+			<key>sourceSize</key>
+			<string>{109, 38}</string>
+		</dict>
+		<key>image/ichuzhan/c_b_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{178, 253}, {109, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {109, 38}}</string>
+			<key>sourceSize</key>
+			<string>{109, 38}</string>
+		</dict>
+		<key>image/ichuzhan/c_bg_01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {180, 112}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {180, 112}}</string>
+			<key>sourceSize</key>
+			<string>{180, 112}</string>
+		</dict>
+		<key>image/ichuzhan/c_btn_01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{343, 129}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ichuzhan/c_btn_02.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{355, 1}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ichuzhan/c_btn_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{344, 65}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ichuzhan/c_btn_12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{183, 75}, {134, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {134, 62}}</string>
+			<key>sourceSize</key>
+			<string>{134, 62}</string>
+		</dict>
+		<key>image/ichuzhan/c_h_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{491, 49}, {46, 18}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 18}}</string>
+			<key>sourceSize</key>
+			<string>{46, 18}</string>
+		</dict>
+		<key>image/ichuzhan/c_h_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{479, 154}, {46, 18}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 18}}</string>
+			<key>sourceSize</key>
+			<string>{46, 18}</string>
+		</dict>
+		<key>image/ichuzhan/c_h_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{304, 187}, {46, 18}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 18}}</string>
+			<key>sourceSize</key>
+			<string>{46, 18}</string>
+		</dict>
+		<key>image/ichuzhan/c_h_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{491, 1}, {46, 18}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 18}}</string>
+			<key>sourceSize</key>
+			<string>{46, 18}</string>
+		</dict>
+		<key>image/ichuzhan/c_hua.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{123, 229}, {53, 44}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {53, 44}}</string>
+			<key>sourceSize</key>
+			<string>{53, 44}</string>
+		</dict>
+		<key>image/ichuzhan/c_juan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{183, 31}, {42, 159}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {42, 159}}</string>
+			<key>sourceSize</key>
+			<string>{42, 159}</string>
+		</dict>
+		<key>image/ichuzhan/c_q_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{289, 273}, {72, 50}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {72, 50}}</string>
+			<key>sourceSize</key>
+			<string>{72, 51}</string>
+		</dict>
+		<key>image/ichuzhan/c_q_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{119, 275}, {72, 51}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {72, 51}}</string>
+			<key>sourceSize</key>
+			<string>{72, 51}</string>
+		</dict>
+		<key>image/ichuzhan/c_q_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{172, 293}, {72, 51}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {72, 51}}</string>
+			<key>sourceSize</key>
+			<string>{72, 51}</string>
+		</dict>
+		<key>image/ichuzhan/c_q_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{363, 273}, {72, 50}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {72, 50}}</string>
+			<key>sourceSize</key>
+			<string>{72, 51}</string>
+		</dict>
+		<key>image/ichuzhan/c_yuan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{108, 388}, {100, 100}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {100, 100}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>image/ichuzhan/c_yuan_bg.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 388}, {105, 105}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 105}}</string>
+			<key>sourceSize</key>
+			<string>{105, 105}</string>
+		</dict>
+		<key>image/ichuzhan/c_yuan_box.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 230}, {116, 116}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {116, 116}}</string>
+			<key>sourceSize</key>
+			<string>{116, 116}</string>
+		</dict>
+		<key>image/ichuzhan/dizuo.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{123, 115}, {112, 57}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {112, 57}}</string>
+			<key>sourceSize</key>
+			<string>{112, 57}</string>
+		</dict>
+		<key>image/ichuzhan/dizuoBg.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{183, 1}, {170, 28}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {170, 28}}</string>
+			<key>sourceSize</key>
+			<string>{170, 28}</string>
+		</dict>
+		<key>image/ichuzhan/doudou.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{225, 293}, {60, 59}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {60, 59}}</string>
+			<key>sourceSize</key>
+			<string>{60, 60}</string>
+		</dict>
+		<key>image/ichuzhan/houyuantuan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 115}, {120, 113}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {120, 113}}</string>
+			<key>sourceSize</key>
+			<string>{120, 114}</string>
+		</dict>
+		<key>image/ichuzhan/yuan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{435, 202}, {73, 73}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {73, 73}}</string>
+			<key>sourceSize</key>
+			<string>{73, 73}</string>
+		</dict>
+		<key>image/ichuzhan/zuheji.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{182, 139}, {120, 112}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {120, 112}}</string>
+			<key>sourceSize</key>
+			<string>{120, 113}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>textureFileName</key>
+		<string>ichuzhan.png</string>
+	</dict>
+</dict>
+</plist>

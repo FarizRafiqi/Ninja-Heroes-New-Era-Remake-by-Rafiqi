@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>image/ibuilding/h_Senior0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{890, 1}, {83, 93}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {83, 93}}</string>
+			<key>sourceSize</key>
+			<string>{84, 94}</string>
+		</dict>
+		<key>image/ibuilding/h_Senior1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{890, 173}, {83, 92}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {83, 92}}</string>
+			<key>sourceSize</key>
+			<string>{84, 92}</string>
+		</dict>
+		<key>image/ibuilding/h_energy.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{973, 322}, {50, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {50, 62}}</string>
+			<key>sourceSize</key>
+			<string>{50, 63}</string>
+		</dict>
+		<key>image/ibuilding/h_exp.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{885, 395}, {50, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {50, 62}}</string>
+			<key>sourceSize</key>
+			<string>{50, 63}</string>
+		</dict>
+		<key>image/ibuilding/h_icon0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{885, 447}, {50, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {50, 62}}</string>
+			<key>sourceSize</key>
+			<string>{50, 63}</string>
+		</dict>
+		<key>image/ibuilding/h_icon1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{949, 438}, {50, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {50, 62}}</string>
+			<key>sourceSize</key>
+			<string>{50, 63}</string>
+		</dict>
+		<key>image/ibuilding/h_icon2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{949, 386}, {50, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {50, 62}}</string>
+			<key>sourceSize</key>
+			<string>{50, 63}</string>
+		</dict>
+		<key>image/ibuilding/h_icon3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{885, 343}, {50, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {50, 62}}</string>
+			<key>sourceSize</key>
+			<string>{50, 63}</string>
+		</dict>
+		<key>image/ibuilding/h_icon4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{973, 258}, {50, 62}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {50, 62}}</string>
+			<key>sourceSize</key>
+			<string>{50, 63}</string>
+		</dict>
+		<key>image/ibuilding/h_jinru.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{885, 258}, {83, 86}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {83, 86}}</string>
+			<key>sourceSize</key>
+			<string>{83, 86}</string>
+		</dict>
+		<key>image/ibuilding/h_shengji.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{890, 86}, {92, 85}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {92, 85}}</string>
+			<key>sourceSize</key>
+			<string>{92, 85}</string>
+		</dict>
+		<key>image/ibuilding/h_silver.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{949, 490}, {50, 62}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 1}, {50, 62}}</string>
+			<key>sourceSize</key>
+			<string>{50, 63}</string>
+		</dict>
+		<key>image/ibuilding/homeBtn01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 489}, {239, 240}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {239, 240}}</string>
+			<key>sourceSize</key>
+			<string>{239, 240}</string>
+		</dict>
+		<key>image/ibuilding/homeBtn02.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{338, 241}, {253, 260}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {253, 260}}</string>
+			<key>sourceSize</key>
+			<string>{253, 260}</string>
+		</dict>
+		<key>image/ibuilding/homeBtn03.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{619, 227}, {258, 264}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {258, 264}}</string>
+			<key>sourceSize</key>
+			<string>{258, 264}</string>
+		</dict>
+		<key>image/ibuilding/homeBtn05.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 273}, {214, 243}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {214, 243}}</string>
+			<key>sourceSize</key>
+			<string>{214, 243}</string>
+		</dict>
+		<key>image/ibuilding/homeBtn06.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{600, 487}, {199, 247}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {199, 247}}</string>
+			<key>sourceSize</key>
+			<string>{199, 247}</string>
+		</dict>
+		<key>image/ibuilding/homeBtn07.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 730}, {201, 232}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {201, 232}}</string>
+			<key>sourceSize</key>
+			<string>{201, 232}</string>
+		</dict>
+		<key>image/ibuilding/homeBtn09.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {335, 270}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {335, 270}}</string>
+			<key>sourceSize</key>
+			<string>{335, 270}</string>
+		</dict>
+		<key>image/ibuilding/homeBtn10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{619, 1}, {269, 224}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {269, 224}}</string>
+			<key>sourceSize</key>
+			<string>{269, 224}</string>
+		</dict>
+		<key>image/ibuilding/homeBtn12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{338, 1}, {279, 238}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {279, 238}}</string>
+			<key>sourceSize</key>
+			<string>{279, 238}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>ibuilding.png</string>
+	</dict>
+</dict>
+</plist>
